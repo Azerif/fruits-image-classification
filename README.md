@@ -49,9 +49,3 @@ This project aims to classify fruit images using a deep learning model based on 
 - **Validation Accuracy:** ~95%  
 - **Test Accuracy:** ~95%  
 - The trained model can classify fruit images with high accuracy.
-
-
-
-
-
-# fruits-image-classification
